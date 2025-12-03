@@ -1,4 +1,4 @@
-# SAC_Retailer_Analysis
+# SAC Retailer Analysis
 📊 Intelligent Enterprise Systems (IES) – SAP Analytics Cloud Retail Analysis
 
 A data-driven business intelligence project built in SAP Analytics Cloud (SAC) that analyzes the SAC Retailer Dataset to simulate real enterprise decision-making.
